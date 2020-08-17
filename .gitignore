@@ -1,3 +1,6 @@
+# MacOS shit
+**/.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -126,4 +129,9 @@ venv.bak/
 dmypy.json
 
 # Pyre type checker
-.pyre/
+.pyre
+
+# Visual Studio Code
+**/*.code-workspace
+
+
